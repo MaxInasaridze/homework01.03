@@ -15,6 +15,7 @@ export default function Navbar() {
                 <li><a href="#">Service and Pricing</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
+                <i class="fa-solid fa-circle-user"></i>
                 <li ><a href="#" className='login'>Log In</a></li>
                 <i class="fa-brands fa-instagram"></i>
                 <i class="fa-brands fa-facebook-f"></i>
