@@ -44,8 +44,9 @@ p{
 .btn_s_s{
     padding: 10px 20px;
     background-color: #e57064;
-    border: none;
+    border: 1px black solid;
     cursor: pointer;
+    color: black;
 }
 
 

@@ -21,7 +21,6 @@ export default function Navbar() {
                 <i class="fa-brands fa-facebook-f"></i>
                 <i class="fa-brands fa-linkedin"></i>
             </ul>
-
     </nav>
   )
 }
